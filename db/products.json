@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "65ab2583b959141ae7eb35d5"
+  },
+  "name": "Laptop",
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65acc11853c758e49e1afd9b"
+  },
+  "name": "Mobile",
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae28b2ba2707bc741e8cf4"
+  },
+  "name": "Mobile X9",
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ae28bdba2707bc741e8cf6"
+  },
+  "name": "Mobile Y9",
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65af2ce5b3c6c03476378d7c"
+  },
+  "name": "Mobile 56",
+  "price": 80000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b069b06c1e1b20e4e772c9"
+  },
+  "name": "Mobile 56",
+  "price": 80000,
+  "image": "productImage\\Tue Jan 23 2024galactic-night-sky-astronomy-science-combined-generative-ai.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b069cabc66bcdf52c09a4b"
+  },
+  "name": "Mobile 56",
+  "price": 80000,
+  "image": "productImage\\Tue Jan 23 2024galactic-night-sky-astronomy-science-combined-generative-ai.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b06aabac04906d77e9fcf1"
+  },
+  "name": "Mobile 56",
+  "price": 80000,
+  "image": "productImage\\Tue Jan 23 20242.jpg",
+  "__v": 0
+}]
